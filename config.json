@@ -1,0 +1,20 @@
+{
+  "adConfig": {
+    "adUnitId": "4c198dd1f6b4c522",
+    "testDeviceIds": ["b17d3cbe-ae06-491c-971e-a3c01c955afa"],
+    "mediationProvider": "max"
+  },
+  "gameConfig": {
+    "totalLevels": 30,
+    "configLevel": 5,
+    "initialAdEnabled": true,
+    "successParam": 1,
+    "adUnitParam": "/23200510714/PIYUSH-REWARD-1"
+  },
+  "postbackConfig": {
+    "postbackUrl": "https://reward.serviceclic.com/redpost.php",
+    "offerKeyParam": "offer_key",
+    "encParam": "enc",
+    "levelParam": "level"
+  }
+}
