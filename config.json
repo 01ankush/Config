@@ -15,9 +15,10 @@
   },
   "postbackConfig": {
     "postbackUrl": "https://reward.serviceclic.com/redpost.php",
-    "offerKeyParam": "offer_key",
-    "encParam": "enc",
+    "offerKeyParam": "ABC",
+    "encParam": "1",
     "levelParam": "level"
   }
 }
+
 
