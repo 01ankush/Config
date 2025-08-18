@@ -8,7 +8,7 @@
   },
   "gameConfig": {
     "totalLevels": 30,
-    "configLevel": 5,
+    "configLevel": 2,
     "initialAdEnabled": false,
     "successParam": 1,
     "adUnitParam": "/23200510714/PIYUSH-REWARD-1"
@@ -20,3 +20,4 @@
     "levelParam": "level"
   }
 }
+
