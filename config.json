@@ -10,7 +10,7 @@
     "totalLevels": 30,
     "configLevel": 5,
     "initialAdEnabled": false,
-    "successParam": 1,
+    "successParam": 0,
     "adUnitParam": "/23200510714/PIYUSH-REWARD-1"
   },
   "postbackConfig": {
@@ -20,6 +20,7 @@
     "levelParam": "level"
   }
 }
+
 
 
 
