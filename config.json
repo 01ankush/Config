@@ -19,8 +19,9 @@
     "encParam": "1",
     "levelParam": "level"
   },
-  "isAdIntegration": false
+  "isAdIntegration": true
 }
+
 
 
 
